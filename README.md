@@ -59,7 +59,7 @@ Add to PATH environment variable
 
 ## Install Script
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou.git
+git clone https://github.com/BK2995/wasap-botcuk.git
 cd Mr. BKeyBot
 npm install
 ```
